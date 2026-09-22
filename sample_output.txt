@@ -1,0 +1,19 @@
+Fixed-value example (day9_calculator_example.py):
+The value of 50 + 4 is 54
+The value of 50 - 4 is 46
+The value of 50 * 4 is 200
+The value of 50 / 4 is 12.5
+The value of 50 % 4 is 2
+The value of 50 ** 4 is 6250000
+
+Interactive example (Calculator.py):
+===== SMART CALCULATOR =====
+Enter any mathematical expression.
+Use +, -, *, /, %, ** and brackets ().
+Type 'exit' to close the calculator.
+
+Enter expression: (2+3)*4
+Result = 20
+
+Enter expression: exit
+Calculator closed!
